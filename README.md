@@ -1,2 +1,3 @@
 # leetcode
-leetcode exercises https://leetcode.com/
+My leetcode solutions, mostly in python 3  
+https://leetcode.com/
